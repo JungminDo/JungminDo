@@ -1,4 +1,23 @@
-### Hi there 👋
+# 안녕하세요 도정민입니다. 👋
+
+
+#### 제 Git 에 오신걸 환영합니다
+
+
+프론트 엔드 개발자입니다. 
+
+
+## Languages and Skills
+
+
+
+
+## Tools
+
+
+
+## Work Experience.
+
 
 <!--
 **JungminDo/JungminDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

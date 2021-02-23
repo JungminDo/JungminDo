@@ -19,6 +19,10 @@
 
 ## Work Experience.
 
+2020/12/21 ~ 2021/01/05 법무법인 태평양 
+2021/01/06  천재교육 1차시 수학
+2021/02/16  천재교육 2차시 4학년 수학
+
 
 <!--
 **JungminDo/JungminDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

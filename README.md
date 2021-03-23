@@ -33,11 +33,11 @@
 ## Work Experience.
 
 
-[사이트 속도측정](https://github.com/JungminDo/JungminDo/blob/main/PageSpeed%20Insights.md) <br>
+[사이트 속도측정](PageSpeed Insights.md) <br>
 
 법무법인 태평양   <br>
 
-[천재교육](https://github.com/JungminDo/JungminDo/blob/main/tsherpa.md)      <br>
+[천재교육](tsherpa.md)      <br>
 
 [프로젝트 제안](projectplan.md)
 

@@ -32,15 +32,15 @@
 
 ## Work Experience.
 
-2020/12/21 ~ 2021/01/05 
+
 [사이트 속도측정](https://github.com/JungminDo/JungminDo/blob/main/PageSpeed%20Insights.md) <br>
+
 법무법인 태평양   <br>
-2021/01/06 ~ 진행중
+
 [천재교육](https://github.com/JungminDo/JungminDo/blob/main/tsherpa.md)      <br>
-2021/03/10 ~ 2021/03/12
-롯데 자이언츠 커뮤니티 앱 제안<br>
-2021.03.19 ~ 2021.03.23
-현대 해상 제안 <br>
+
+[프로젝트 제안](projectplan.md)
+
 
 
 <!--

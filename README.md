@@ -3,15 +3,28 @@
 
 #### 제 Git 에 오신걸 환영합니다
 
-직관적인 인터페이스와 적절한 애니메이션을 <br>
-구현하는 것을 좋아합니다. <br>
+효율적인 마크업과 <br>
+애니메이션을 활용한 화면을 구현하길 좋아합니다. <br>
 팀원에 대한 신뢰와 화합을 추구합니다.
 
 
 ## Languages and Skills
 
-<img src="https://user-images.githubusercontent.com/65691152/98434189-dd3eb600-2110-11eb-9dcd-ee044e81b858.png" width="50"> <img src="https://user-images.githubusercontent.com/65691152/98434190-de6fe300-2110-11eb-8178-ff6d31ba1888.png" width="50"> <img src="https://user-images.githubusercontent.com/65691152/98434191-de6fe300-2110-11eb-8c1a-e2b8479656d2.png" width="50"> <img src="https://user-images.githubusercontent.com/65691152/98434192-df087980-2110-11eb-8320-365cdbc1b24e.png" width="50">
-<img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="50"> <img src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="50">
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/65691152/98434189-dd3eb600-2110-11eb-9dcd-ee044e81b858.png" width="50" alt=""></td>
+     <td><img src="https://user-images.githubusercontent.com/65691152/98434190-de6fe300-2110-11eb-8178-ff6d31ba1888.png" width="50"></td>
+     <td><img src="https://user-images.githubusercontent.com/65691152/98434191-de6fe300-2110-11eb-8c1a-e2b8479656d2.png" width="50"></td>
+     <td><img src="https://user-images.githubusercontent.com/65691152/98434192-df087980-2110-11eb-8320-365cdbc1b24e.png" width="50"></td>
+     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" width="50"></td>
+     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50"></td>
+     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="50"></td>
+   
+  </tr>
+</table>
+<!-- <img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="50">
+<img src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="50"> -->
+
 
 ## Tools
 
@@ -20,14 +33,14 @@
 ## Work Experience.
 
 2020/12/21 ~ 2021/01/05 
-삼선자산운용 속도측정
+[사이트 속도측정](https://github.com/JungminDo/JungminDo/blob/main/PageSpeed%20Insights.md) <br>
 법무법인 태평양   <br>
-2021/01/06 
-천재교육      <br>
-2021/진행중 
-천재교육      <br>
+2021/01/06 ~ 진행중
+[천재교육](https://github.com/JungminDo/JungminDo/blob/main/tsherpa.md)      <br>
 2021/03/10 ~ 2021/03/12
-롯데 자이언츠 커뮤니티 앱 제안참여 <br>
+롯데 자이언츠 커뮤니티 앱 제안<br>
+2021.03.19 ~ 2021.03.23
+현대 해상 제안 <br>
 
 
 <!--

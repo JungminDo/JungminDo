@@ -39,7 +39,7 @@
 
 [프로젝트 제안](projectplan.md) <br>
 
-[운영](SystemManagement .md)
+[운영](SystemManagement.md) <br>
 
 법무법인 태평양   <br>
 

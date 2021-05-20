@@ -41,7 +41,6 @@
 
 [운영](SystemManagement.md) <br>
 
-법무법인 태평양   <br>
 
 
 <!--
